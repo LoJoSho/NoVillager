@@ -1,0 +1,6 @@
+name: NoVillager
+version: ${project.version}
+main: me.novillager.NoVillager
+api-version: 1.16
+authors: [LoJoSho]
+description: No Villagers
